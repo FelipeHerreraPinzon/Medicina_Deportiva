@@ -78,6 +78,9 @@ h1, h3, h5{
 .sw{
   text-decoration: underline;
 }
+.underline {
+  text-decoration: underline;
+}
 /*
 body::before {
   content: "INFINITY";
